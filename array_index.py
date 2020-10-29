@@ -18,7 +18,7 @@ print(array[:9]) # doesn't include the end value
 fruits = ["apple","banana","cherry","orange","grape"]
 y = fruits.index("cherry")
 print(y)
-
+#
 
 
 
